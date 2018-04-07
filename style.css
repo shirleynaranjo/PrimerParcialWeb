@@ -1,0 +1,32 @@
+
+
+.encabezado {
+	background-color: #94D6DD;
+	
+}
+
+.icono{
+	max-width: 100%;
+	height: auto;
+	float: left;
+
+   
+}
+
+.principal{
+	margin-top: 50px;
+	float: left;
+
+	
+}
+
+.imagelab{
+		
+	max-width: 100%;
+	height: auto;
+}
+label{
+	display:block;
+  	padding-bottom:9px;
+}
+
